@@ -6,4 +6,4 @@ def is_prime(n):
 			return false
 		if n % i!=0:
 		return true
-is_prime(11)			
+is_prime(13)			
